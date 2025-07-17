@@ -1,7 +1,7 @@
 # Please cite us if you use any of our data: 
 
 
-# Single-cell metabarcoding of marine benthic mixotrophs reveals adaptive bacterial assemblages
+# Specific host-algae relationship, yet flexible bacterial microbiome, in diatom-bearing foraminifera
 
 Elsa B. Girard a,b, Laura del Rio-Hortega a,c, Andi M. A. Pratama d, Sophie Volkenandt a, Jan-Niklas Macher a,e, Susanne Wilken b and Willem Renema a,b
 
@@ -21,7 +21,7 @@ Postal address: Naturalis Biodiversity Center, Darwinweg 2, 2333 CR Leiden, the 
 
 # Abstract
 
-Marine mixotrophs, organisms that combine heterotrophic and autotrophic nutrition, are particularly well-adapted to survive in oligotrophic environments. Some of them, like corals, opt for flexibility in their photosynthetic partners to adapt to environmental changes. The question of whether the adaptive strategies of marine mixotrophs in response to global change are rooted in their symbiotic relationships remains debated, especially for calcifying larger benthic foraminifera (forams). Using single-cell metabarcoding on 243 diatom-bearing forams sampled across a gradient of turbidity, we studied its endobiome (microbiome living within the organism) to resolve the controversy regarding the flexible nature of the algal endosymbionts. Our results suggest that the flexible and adaptive nature of the foram holobiont does not lie in its algal endobiome, but within its dynamic bacterial endobiome. Diatom-bearing forams have a host-specific mutualistic symbiosis with their primary algal endosymbiont. Conversely, they harbour a surprisingly versatile, yet uniform assemblage of bacteria among host species, that likely sustains constant metabolic functions despite the variation in assemblages across the turbidity gradient. How exactly the activities of the bacterial endobiome benefit (or hinder) the adaptation of the host to environmental stress remains largely unanswered.
+Whether the adaptive strategies of marine mixotrophs, organisms that combine heterotrophic and autotrophic nutrition, in response to global change are rooted in their symbiotic relationships is debated, especially for larger benthic foraminifera. Despite their importance in the ecosystem, there are controversial findings regarding the specificity of their algal endobionts, preventing a deeper understanding of their adaptive strategies. Using single-cell metabarcoding on 243 diatom-bearing foraminifera specimens from Indonesia, we found one highly dominant diatom strain in each foraminiferal host species bearing at least 90 % of the reads in a majority of host species, whereas the bacterial community was very flexible, with only 25 % of the variation explained by water depth, substrate type, location, and host species. Our results suggest that the adaptive strategy of the foraminiferal holobiont rather lies within its bacterial endobiome. Its dynamism likely facilitates the adaptive potential of foraminifera, supporting their proliferation across different environmental settings.
 
 
 ## Key words: 
