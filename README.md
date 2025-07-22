@@ -28,11 +28,11 @@ Whether the adaptive strategies of marine mixotrophs, organisms that combine het
 Large benthic foraminifera, holobiont, symbiosis, diatom, metabarcoding
 
 # R code and dataset: How-to-do
-1. Download the dataset folder and the R code
+1. Download the dataset folder and the R code (you may need to decompress large datasets)
 2. Open R studio and the R code file
 3. Run the section or the analysis of the code that is of interest
 4. Cite us, thank you :-)
 
 # Citation
 
-Not published yet
+Under review
